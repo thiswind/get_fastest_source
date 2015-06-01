@@ -12,5 +12,5 @@ It's very useful for making docker images and new installed systems
 # USAGE
 
 ```
-curl -s https://raw.githubusercontent.com/thiswind/get_fastest_source/master/getFastestSource.sh | bash - --
+curl -s http://git.io/vkiUF | bash - --
 ```
