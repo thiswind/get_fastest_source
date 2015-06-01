@@ -12,14 +12,5 @@ It's very useful for making docker images and new installed systems
 # USAGE
 
 ```
-$ git clone https://github.com/thiswind/get_fastest_source.git 
-$ cd get_fastest_source/
-$ sudo ./getFastestSource.sh
-$ sudo apt-get update
-```
-
-Or you can use one line to run it:
-
-```
-cd ~/ && git clone https://github.com/thiswind/get_fastest_source.git && cd get_fastest_source/ && sudo ./getFastestSource.sh && sudo apt-get update
+curl -s https://raw.githubusercontent.com/thiswind/get_fastest_source/master/getFastestSource.sh | bash - --
 ```
