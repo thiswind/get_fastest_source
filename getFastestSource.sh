@@ -13,5 +13,5 @@ cd ./getfastmirror-master/
 
 sudo getfastmirror update -t
 
-
+sudo apt-get update
 
