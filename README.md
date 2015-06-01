@@ -1,7 +1,7 @@
 Get Fastest Source
 =====================
 get the fastest apt source for Ubuntu
-——————————
+---------------------
 
 # INSTALL
 
@@ -9,5 +9,3 @@ get the fastest apt source for Ubuntu
 $ https://github.com/thiswind/get_fastest_source.git
 $ ./getFastestSource.sh
 ```
-
-
