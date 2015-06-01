@@ -1,6 +1,8 @@
 #!/bin/bash
 
-sudo apt-get install -y python-setuptools unzip python-apt
+sudo su
+
+apt-get install -y python-setuptools unzip python-apt
 
 cd /tmp/
 
@@ -11,7 +13,8 @@ cd ./getfastmirror-master/
 
 ./setup.py install
 
-sudo getfastmirror update -t
+getfastmirror update -t
 
 #sudo apt-get update
 
+exit
