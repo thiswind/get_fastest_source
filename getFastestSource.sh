@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt-get install -y python-setuptools wget unzip python-apt
+sudo apt-get install -y python-setuptools unzip python-apt
 
 cd /tmp/
 
