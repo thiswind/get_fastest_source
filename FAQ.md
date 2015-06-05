@@ -5,5 +5,5 @@ FAQ
 
 Q: 
 ```
-wget -q -O - "$@" http://git.io/vkiUF | bash -s --
+wget -q -O - "$@" http://git.io/vkiUF | bash
 ```
