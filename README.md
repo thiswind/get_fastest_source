@@ -12,5 +12,5 @@ It's very useful for making docker images and new installed systems
 # USAGE
 
 ```
-wget -q -O - "$@" http://git.io/vkiUF | bash -s --
+sudo wget -q -O - "$@" http://git.io/vkiUF | bash
 ```
